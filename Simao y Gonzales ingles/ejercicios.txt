@@ -1,0 +1,44 @@
+They arrested her last week.
+(She was arrested last week) "2"
+
+ John wrote a letter.
+(A letter was written by John) "1"
+
+ They invited ten friends to the party.
+(Ten friends were invited to the party) "3"
+
+ They have just built a new house.
+(A new house has just been built) "4"
+
+ The police caught the thieves yesterday.
+(The thieves were caught by the police yesterday) "1"
+
+ The maid will clean all the house for tomorrow.
+(All the house will be cleaned by the maid for tomorrow) "2"
+
+ My brother hit me.
+(I was hit by my brother) "2"
+
+ They removed two cars from the street.
+(Two cars were removed from the street) "1"
+
+ They have just cleaned the room.
+(The room has just been cleaned) "4"
+
+ We will build a new house
+(A new house will be built) "3"
+
+They had won the race.
+(The race had been won ) "1"
+
+They drank two pints at Paul's house.
+(Two pints were drunk at Paul's house.) "3"
+
+I didn't recognize Mary at first sight.
+(Mary wasn't recognized at first sight.) "2"
+
+You can't take photographs in this place
+(Photographs can't be taken in this place) "1"
+
+I have to mend this watch.
+(This watch has to be mended) "3"
